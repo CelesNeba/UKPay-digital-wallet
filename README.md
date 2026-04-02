@@ -22,19 +22,27 @@ UKPay is a simplified digital wallet system tailored to the UK market. This proj
 
 UKPay-Digital-Wallet/
 │
+
 ├── Data/
+
 │   ├── ukpay_users.csv
+
 │   ├── ukpay_transactions.csv
+
 │   └── ukpay_merchants.csv
 │
+
 ├── SQL/
 │   ├── ukpay_schema.sql          # Database schema creation scripts
+
 │   └── sql_queries.sql           # Analytical SQL queries
 │
 ├── notebook/
+
 │   └── analytics_backend.ipynb   # Python scripts for analytics and backend logic
 │
 ├── Power BI/
+
 │   └── ukpay_powerbi_dashboard.pbix  # Interactive dashboards
 │
 └── README.md
