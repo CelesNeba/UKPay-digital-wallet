@@ -153,6 +153,25 @@ Charts used:
 - Clean, structured, and professional datasets and scripts.
 - Project ready for portfolio presentation.
 
+## UKPay Dashboard Preview
+
+![UKPay Dashboard](https://raw.githubusercontent.com/CelesNeba/UKPay-digital-wallet/main/UKPay%20original%20dashboard%20screen%20shot.PNG)
+
+*Interactive Power BI dashboard showcasing transaction trends, user activity, and merchant performance.*
+
+
+
+
+## my recommendation
+
+Based on the analysis, it is recommended to enhance user engagement by promoting high-performing merchant categories and monitoring low-balance users with targeted notifications. Additionally, optimizing transaction flows and leveraging data-driven insights can improve overall user experience and drive revenue growth within the UKPay digital wallet system.
+
+
+
+
+
+
+
 ## Author
 
 Celestine Neba
