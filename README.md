@@ -101,6 +101,8 @@ UKPay-Digital-Wallet/
 - Created tables: **Users,** **Merchants,** **Transactions,** **UtilityPayments.**
 - Populated tables with 2000+ rows of mock data.
 - Wrote analytical queries for:
-      - Monthly transaction summaries per user.
-      - Top-performing merchants
-      - Average utility bills per user.
+   - Monthly transaction summaries per user.
+
+   - Top-performing merchants
+
+  - Average utility bills per user.
