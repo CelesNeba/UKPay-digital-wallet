@@ -47,29 +47,36 @@ UKPay is a simplified digital wallet system tailored to the UK market. This proj
 - **Analytics**: User segmentation, transaction frequency, and spending patterns.
 - **Interactive Dashboards**: Power BI dashboards with global slicers, filters, and visual insights.
 
----
 
 
 ## Project Structure
 
-```text
 UKPay-Digital-Wallet/
+
 │
 ├── Data/
-│   ├── ukpay_users.csv
-│   ├── ukpay_transactions.csv
-│   └── ukpay_merchants.csv
+│  
+├── ukpay_users.csv
+│   
+├── ukpay_transactions.csv
+│   
+└── ukpay_merchants.csv
 │
 ├── SQL/
-│   ├── ukpay_schema.sql
-│   └── sql_queries.sql
+│  
+├── ukpay_schema.sql
+│   
+└── sql_queries.sql
 │
 ├── notebook/
-│   └── analytics_backend.ipynb
+│   
+└── analytics_backend.ipynb
 │
 ├── Power BI/
-│   └── ukpay_powerbi_dashboard.pbix
+│   
+└── ukpay_powerbi_dashboard.pbix
 │
+
 └── README.md
 
 
