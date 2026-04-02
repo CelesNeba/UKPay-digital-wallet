@@ -106,3 +106,16 @@ UKPay-Digital-Wallet/
    - Top-performing merchants
 
   - Average utility bills per user.
+ 
+
+### Step 3: Python Analytics & backend simulation
+- Connected to MySQL database using SQLAlchemy and pandas.
+
+- Performed analytics:
+1. Identified the most frequent transaction types per user.
+2. Calculated month-over-month growth in total transactions.
+3. Created user segmentation by transaction frequency and average amount.
+- Simulated backend logic:
+1. Deducted balances for successful transactions.
+2. Generated reminders for low balances.
+3. Visualized spending patterns using matplotlib and seaborn.
