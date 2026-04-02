@@ -78,20 +78,3 @@ UKPay-Digital-Wallet/
 
 
 
-### Step 1: Data cleaning & preparation
-
-- Loaded CSV datasets (users, transactions, merchants) into Python using pandas.
-- Handled missing values and ensured proper data types.
-- Checked for duplicates and inconsistencies.
-- Ensured UK currency format (£) for financial transactions.
-- Verified correct merchant categories and transaction types.
-
-### Step 2: Database design & SQL
-
-- Designed a relational database using MySQL.
-- Created tables: Users, Merchants, Transactions, UtilityPayments.
-- Populated tables with 2000+ rows of mock data.
-- Wrote analytical queries for:
-    - Monthly transaction summaries per user.
-    - Top-performing merchants.
-    - Average utility bills per user.
