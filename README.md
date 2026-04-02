@@ -140,8 +140,22 @@ Charts used:
 
 
 
-Technologies used
+### Technologies used
 - SQL / MySQL – Database design, querying, and transaction management.
 - Python (pandas, matplotlib, seaborn, SQLAlchemy) – Data analytics, visualization, backend simulation.
 - Power BI – Interactive dashboards and reporting.
 - CSV – Mock dataset for users, merchants, and transactions.
+
+
+### Outcome
+- Complete end-to-end simulation of a UK digital wallet system.
+- Interactive dashboards for data-driven insights.
+- Clean, structured, and professional datasets and scripts.
+- Project ready for portfolio presentation.
+
+## Author
+
+Celestine Neba
+LinkedIn:  https://www.linkedin.com/in/celestine-neba-data-analyst/
+
+GitHub: https://github.com/CelesNeba/UKPay-Digital-Wallet
