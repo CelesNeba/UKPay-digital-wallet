@@ -73,8 +73,11 @@ UKPay-Digital-Wallet/
 └── README.md
 
 
-
-
-
-
+## Step 1: Data Cleaning & Preparation
+```text
+Loaded CSV datasets (users, transactions, merchants) into Python using pandas.
+Handled missing values and ensured proper data types.
+Checked for duplicates and inconsistencies.
+Ensured UK currency format (£) for financial transactions.
+Verified correct merchant categories and transaction types.
 
