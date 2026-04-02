@@ -119,3 +119,29 @@ UKPay-Digital-Wallet/
 1. Deducted balances for successful transactions.
 2. Generated reminders for low balances.
 3. Visualized spending patterns using matplotlib and seaborn.
+
+
+
+### Step 4: Power BI Dashboard
+
+- Built dashboards with actionable insights:
+**1. User-level dashboard**  Individual spending trends, transaction categories, balance history.
+**2. Merchant-level dashboard** Transaction volume, revenue, top customers.
+**3.Overall system dashboard** Total transactions, active users, revenue trends.
+- Implemented interactive filters:
+1. Global slicers for Date and Transaction Type.
+2. Searchable filters for User Name and Merchant Name.
+3. Conditional formatting to highlight low balances (<£50) in red.
+Charts used:
+1. Line chart for monthly transaction trends.
+2. Area chart for active users trend.
+3. Stacked column charts for transaction types and merchant categories.
+4. Map for revenue by location.
+
+
+
+Technologies used
+- SQL / MySQL – Database design, querying, and transaction management.
+- Python (pandas, matplotlib, seaborn, SQLAlchemy) – Data analytics, visualization, backend simulation.
+- Power BI – Interactive dashboards and reporting.
+- CSV – Mock dataset for users, merchants, and transactions.
