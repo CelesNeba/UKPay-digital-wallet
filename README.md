@@ -162,7 +162,7 @@ Charts used:
 
 
 
-## my recommendation
+## My recommendation
 
 Based on the analysis, it is recommended to enhance user engagement by promoting high-performing merchant categories and monitoring low-balance users with targeted notifications. Additionally, optimizing transaction flows and leveraging data-driven insights can improve overall user experience and drive revenue growth within the UKPay digital wallet system.
 
@@ -174,7 +174,8 @@ Based on the analysis, it is recommended to enhance user engagement by promoting
 
 ## Author
 
-Celestine Neba
+**Celestine Neba**
+
 LinkedIn:  https://www.linkedin.com/in/celestine-neba-data-analyst/
 
 GitHub: https://github.com/CelesNeba/UKPay-Digital-Wallet
